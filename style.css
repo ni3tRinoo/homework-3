@@ -1,0 +1,9 @@
+.transform{
+    text-transform: inherit;
+    /* text-indent: 20%;
+    text-align: center;
+    width: 500px; */
+    font-weight: 900;
+    font-family: 'Sevillana', cursive;
+    font-size: 45px;
+}
